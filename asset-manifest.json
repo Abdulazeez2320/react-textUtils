@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-textUtils-app/static/css/main.b0eb1b8d.chunk.css",
-    "main.js": "/react-textUtils-app/static/js/main.ed6300b7.chunk.js",
-    "main.js.map": "/react-textUtils-app/static/js/main.ed6300b7.chunk.js.map",
-    "runtime~main.js": "/react-textUtils-app/static/js/runtime~main.bdd6b51e.js",
-    "runtime~main.js.map": "/react-textUtils-app/static/js/runtime~main.bdd6b51e.js.map",
-    "static/js/2.eb57c48f.chunk.js": "/react-textUtils-app/static/js/2.eb57c48f.chunk.js",
-    "static/js/2.eb57c48f.chunk.js.map": "/react-textUtils-app/static/js/2.eb57c48f.chunk.js.map",
-    "static/js/3.2f5a7f7c.chunk.js": "/react-textUtils-app/static/js/3.2f5a7f7c.chunk.js",
-    "static/js/3.2f5a7f7c.chunk.js.map": "/react-textUtils-app/static/js/3.2f5a7f7c.chunk.js.map",
-    "index.html": "/react-textUtils-app/index.html",
-    "precache-manifest.935430fbd315582c4aa19142de71e175.js": "/react-textUtils-app/precache-manifest.935430fbd315582c4aa19142de71e175.js",
-    "service-worker.js": "/react-textUtils-app/service-worker.js",
-    "static/css/main.b0eb1b8d.chunk.css.map": "/react-textUtils-app/static/css/main.b0eb1b8d.chunk.css.map"
+    "main.css": "/react-textUtils/static/css/main.b0eb1b8d.chunk.css",
+    "main.js": "/react-textUtils/static/js/main.ed6300b7.chunk.js",
+    "main.js.map": "/react-textUtils/static/js/main.ed6300b7.chunk.js.map",
+    "runtime~main.js": "/react-textUtils/static/js/runtime~main.a86fdae8.js",
+    "runtime~main.js.map": "/react-textUtils/static/js/runtime~main.a86fdae8.js.map",
+    "static/js/2.b242e641.chunk.js": "/react-textUtils/static/js/2.b242e641.chunk.js",
+    "static/js/2.b242e641.chunk.js.map": "/react-textUtils/static/js/2.b242e641.chunk.js.map",
+    "static/js/3.2f5a7f7c.chunk.js": "/react-textUtils/static/js/3.2f5a7f7c.chunk.js",
+    "static/js/3.2f5a7f7c.chunk.js.map": "/react-textUtils/static/js/3.2f5a7f7c.chunk.js.map",
+    "index.html": "/react-textUtils/index.html",
+    "precache-manifest.48ff0c8ffeefa5903f4d98e47a4eb3b7.js": "/react-textUtils/precache-manifest.48ff0c8ffeefa5903f4d98e47a4eb3b7.js",
+    "service-worker.js": "/react-textUtils/service-worker.js",
+    "static/css/main.b0eb1b8d.chunk.css.map": "/react-textUtils/static/css/main.b0eb1b8d.chunk.css.map"
   }
 }
