@@ -7,12 +7,6 @@ import Form from "./component/Form";
 import Navbar from "./component/Navbar";
 import Alert from "./component/Alert";
 import { isFocusable } from "@testing-library/user-event/dist/utils";
-import {
-  BrowserRouter as Router,
-  Route,
-  Link,
-  Routes
-} from "react-router-dom";
 
 function App() {
   const [mode, setMode] = useState('light')
@@ -51,17 +45,10 @@ function App() {
   return (
     <div className="vh-100 d-flex flex-column">
       < Navbar mode={mode} toggleMode={toggleMode}/>
-      <Router>
-      <Routes>
-          <Route path ="/about" Component={<About />} />
-
-          <Route path = "/">
           <Alert alert={alert}/>
           <Form showAlert = {showAlert} mode={mode} heading="Enter text to analise" />
-          </Route>
-          </Routes>
-      </Router>
-      <Footer />
+          <About />
+      <Footer mode={mode} />
     </div>
   );
 }
